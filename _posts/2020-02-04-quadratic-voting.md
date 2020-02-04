@@ -5,3 +5,6 @@ date: 2020-02-04
 comments: true
 ---
 
+
+# What is Quadratic Voting (QV)?
+
