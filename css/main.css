@@ -1,9 +1,9 @@
-body {font-family: 'Tajawal', ; margin: 60px auto; width: 47%; }
+body {font-family: 'Open Sans',sans-serif ; margin: 60px auto; width: 47%; }
 @media(max-width: 768px) {
-body {font-family: 'Tajawal', ; margin: 60px auto; width: 85%; }	
+body {font-family: 'Open Sans', sans-serif; margin: 60px auto; width: 85%; }	
 }
 nav ul, footer ul {
-    font-family: 'Tajawal', ;
+    font-family: 'Open Sans', sans-serif;
     padding: 0;
     margin: 0;
     font-size: .85em; 
@@ -22,7 +22,7 @@ a:hover {
     text-decoration: underline;
 }
 h1, h2, h3, h4 {
-    font-family: 'Tajawal', ;
+    font-family: 'Open Sans', sans-serif;
 }
 h1 { font-size: 1.8em;  }
 h2 { font-size: 1.7em; }
