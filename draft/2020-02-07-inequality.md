@@ -31,7 +31,7 @@ Fundamental Theorem of Welfare economics
 
 And:
 
->But because it postulates a free-market system, the First Theorem of Welfare Economics offers little if any guidance as to compare the market mechanism with different allocation rules. The “Second Theorem of Welfare Economics” sets the stage for such a comparison. It takes as given the set of Pareto-efficient allocations, and provides sufficient conditions under which any such allocation can be achieved through trade in perfectly competitive markets, once the government commits to an appropriate lump-sum redistribution of resources. That would be a fiscal intervention based on individuals’ characteristics rather than on their market behavior
+> But because it postulates a free-market system, the First Theorem of Welfare Economics offers little if any guidance as to compare the market mechanism with different allocation rules. The “Second Theorem of Welfare Economics” sets the stage for such a comparison. It takes as given the set of Pareto-efficient allocations, and provides sufficient conditions under which any such allocation can be achieved through trade in perfectly competitive markets, once the government commits to an appropriate lump-sum redistribution of resources. That would be a fiscal intervention based on individuals’ characteristics rather than on their market behavior
 
 However, Vilfredo Pareto (1906) made a remark:
 
