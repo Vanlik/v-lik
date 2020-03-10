@@ -25,6 +25,9 @@ Fundamental Theorem of Welfare economics
 
 1. First: Free market leads to pareto-efficient outcome [Free market or Socialism](https://www.ineteconomics.org/perspectives/blog/free-market-or-socialism-have-economists-really-anything-to-say)
 
+** counter-idea: If technology is endogenous, market cannot reach efficient level by itself. Refer to Arrow 1951 proof of under which condition (sufficient/necesary condition) market can be Pareto effeciecy.
+
+
 2. Second: Redistribution ...
 
 > These implications are often summarized by the “First Theorem of Welfare Economics,” which identifies sufficient conditions for any equilibrium allocation, or distribution of resources, in an economy in which agents trade in perfectly competitive markets to be “Pareto-efficient:” this means that, starting from any such allocation, there does not exist a way to redistribute resources that makes all agents better off. Although this theorem permits a broad range of interpretations, depending on our reading of the sufficient conditions, a prominent one acknowledges it as a modern reformulation of the invisible hand, in which the informal style of Adam Smith’s (1776) arguments gives way to the dry language of modern mathematics. The bottom line, conveyed by most economics textbooks since its inception, is that a perfectly competitive free-market system tends to implement an efficient allocation of economic resources.
