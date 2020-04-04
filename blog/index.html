@@ -3,7 +3,7 @@ layout: default
 title: Blog
 ---
 <p><a href="{{ site.url }}"> << back </a></p>
-
+<div>
 	<h1>{{ page.title }}</h1>
 	<ul class="posts">
 
@@ -11,10 +11,14 @@ title: Blog
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
+</div>
+<div>
+	  
 	<h1>ភាសាខ្មែរ</h1>
   	<ul class="khmerposts">
 
-	  {% for postkhmer in site.khmerposts%}
+	    {% for postkhmer in site.khmerposts%}
 	    <li><span>{{ postkhmer.date | date_to_string }}</span> » <a href="{{ postkhmer.url }}" title="{{ postkhmer.title }}">{{ postkhmer.title }}</a></li>
-	  {% endfor %}
+	    {% endfor %}
 	</ul>
+</div>
