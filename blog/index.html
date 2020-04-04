@@ -14,7 +14,7 @@ title: Blog
 	<h1>ភាសាខ្មែរ</h1>
   	<ul class="khmerposts">
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% for postkhmer in site.khmerposts%}
+	    <li><span>{{ postkhmer.date | date_to_string }}</span> » <a href="{{ postkhmer.url }}" title="{{ postkhmer.title }}">{{ postkhmer.title }}</a></li>
 	  {% endfor %}
 	</ul>
