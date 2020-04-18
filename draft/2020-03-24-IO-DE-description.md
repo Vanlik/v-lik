@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Innovation in Small Firms: Education is the key"
-date: 2020-03-09
+title: "Industrial Organization (IO) and Development Economics(DE)"
+#date: 2020-03-09
 comments: true
-output: html_document
+#output: html_document
 ---
 
 Draft date: 2020/03/09
