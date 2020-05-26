@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "On Two/multi-sided Platform Market: A Progessing Report"
-date: 2020-02-27
+title: "Platform Competition and How Should We Deal with That"
+date: 2020-05-26
 comments: true
 output: html_document
 ---
 
 
-## Definition 
+## Definition  
